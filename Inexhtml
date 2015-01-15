@@ -1,0 +1,42 @@
+<html>
+
+<title> My First </title>
+
+<head> 
+	<style type="text/css">
+		rg {font-family: sans-serif}
+		sg {font-size: 55 pt background-color: rgb(250,0,255)}
+		body {background-color: rgb(250,255,200)}
+		lg { font: italic small-caps 900 12px arial }
+	</style>
+</head>
+
+<body bgcolor="cream" font-family="sans-serif">
+	<div style="text-align: center">
+		<img src="he.png" width=60 height=60>
+		<h1><font color=#495070> <rg>HE IMSEC Programming Club CMS<rg></font></h1><hr>
+		<marquee><strong><font color=red>Sorry, No recent announcements. You can submit your queries here..!!</font></strong></marquee> <hr>
+		<fieldset>
+			<legend align=left><rg> Fill Details <rg></legend>		
+			<form action="http://www.imsec.ac.in" method="get"><br><br>
+				<strong>NAME: </strong><input type="text" name="name" size="53"><br><br>
+				<strong>IDN: </strong><input type="text" name="rank" value="4-digit IDN" size="24">  
+				<strong>  TITLE: </strong><select name="title" size="1">
+					<option> ADM-Administrator
+					<option> CDR-Coder
+					<option> PST-Problem Setter & Tester
+					<option> VCD-Verified Coder
+					<option> STD-Student
+				</select><br><br>
+				<fieldset><legend > <rg>Your Query</rg> </legend>
+					<textarea name="query" rows="10" cols="60"></textarea>
+				</fieldset><br><br>
+				<input type="submit" name="submit" value="SUBMIT HERE" size="20">
+				<input type="reset" name="reset" value="CLEAR" size="20">
+			</form>
+		</fieldset>
+		<br><br><br><br><br><br><br>Made by Rajat Gupta<br><u>1114310124</u><br>
+	</div>
+</body>
+
+</html>
