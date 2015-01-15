@@ -14,8 +14,9 @@
 <body bgcolor="cream" font-family="sans-serif">
 	<div style="text-align: center">
 		<img src="he.png" width=60 height=60>
-		<h1><font color=#495070> <rg>HE IMSEC Programming Club CMS<rg></font></h1><hr>
-		<marquee><strong><font color=red>Sorry, No recent announcements. You can submit your queries here..!!</font></strong></marquee> <hr>
+		<h1><font color=#495070> <rg>HE IMSEC Programming Club CMS<rg></font></h1>
+		<marquee bgcolor=red><strong><font color=white>Sorry, No recent announcements. You can submit your queries here..!!</font>
+		</strong></marquee><br><br>
 		<fieldset>
 			<legend align=left><rg> Fill Details <rg></legend>		
 			<form action="http://www.imsec.ac.in" method="get"><br><br>
